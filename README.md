@@ -1,2 +1,2 @@
 # Craqueline
-to open the project go to craqueline/
+to open the project go to craqueline/code/main/index.html
